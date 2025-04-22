@@ -1,0 +1,9 @@
+fastapi
+langchain
+openai
+langchain_openai
+python-dotenv
+uvicorn
+python-multipart
+PILLOW
+vercel_blob
